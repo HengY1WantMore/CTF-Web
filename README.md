@@ -14,7 +14,7 @@
 >
 > 可以**下载**下来自己看看
 
-![Web](/Users/jj/Downloads/Web.png)
+![Web](https://github.com/hengyi666/CTF-Web/blob/main/CTF-Web.svg)
 
 ##  工具 🔧
 
